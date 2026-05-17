@@ -425,7 +425,6 @@ Data Layer (SQLite Database)
 Mã nguồn được tổ chức rõ ràng, dễ bảo trì và mở rộng!
 
 ---
-
-**Tác giả:** Flutter Developer  
-**Ngày cập nhật:** 17/05/2026  
-**Phiên bản:** 1.0.0
+## ảnh
+<img width="1583" height="845" alt="Screenshot 2026-05-17 134607" src="https://github.com/user-attachments/assets/b499b69d-c7de-4acb-9832-fe15168440fc" />
+<img width="1582" height="846" alt="Screenshot 2026-05-17 134527" src="https://github.com/user-attachments/assets/010549ba-d99c-4fbe-a414-be06d486c2f8" />
